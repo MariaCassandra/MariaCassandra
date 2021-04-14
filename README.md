@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Maria 👋
+
+### I'm a junior Front-End Developer by passion and an expat by choice
 
 <!--
 **MariaCassandra/MariaCassandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
